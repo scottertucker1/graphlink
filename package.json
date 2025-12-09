@@ -1,6 +1,6 @@
 {
   "name": "graphlink",
-  "version": "1.8.11",
+  "version": "2.2.7",
   "description": "A directed and undirected multi-graph library",
   "author": "Scotty",
   "license": "MIT",
